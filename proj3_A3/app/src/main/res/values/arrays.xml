@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name = "image_smartphones" >
+        <item>@drawable/phone_image_iphonexs</item>
+        <item>@drawable/phone_image_galaxys10</item>
+        <item>@drawable/phone_image_pixel3</item>
+        <item>@drawable/phone_image_lgv40</item>
+        <item>@drawable/phone_image_htcu12</item>
+        <item>@drawable/phone_image_oneplus6t</item>
+        <item>@drawable/phone_image_xiaomimi9</item>
+        <item>@drawable/phone_image_mate20</item>
+    </array>
+</resources>

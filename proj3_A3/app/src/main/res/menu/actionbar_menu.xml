@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionbar_menu_option1"
+        android:icon="@mipmap/internet"
+        android:title="Launch A1 and A2"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/actionbar_menu_option2"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Exit A3"
+        app:showAsAction="ifRoom"></item>
+</menu>

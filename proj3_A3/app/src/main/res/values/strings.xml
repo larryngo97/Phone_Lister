@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">proj3_A3</string>
+    <string name = "perm_desc_kaboom">receive permission from A3</string>
+    <string name = "app_header">List of Smartphones</string>
+    
+    <string-array name="list_smartphones">
+        <item>iPhone XS</item>
+        <item>Google Pixel 3</item>
+        <item>Samsung Galaxy S10</item>
+        <item>Huawei Mate 20</item>
+        <item>OnePlus 6T</item>
+        <item>LG V40</item>
+        <item>Xiaomi Mi 9</item>
+        <item>HTC U12</item>
+    </string-array>
+
+</resources>
